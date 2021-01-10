@@ -1,7 +1,2 @@
 genome mm10
-trackDb mm10/1KO-G1G2_hMeDIP_log2ratio/trackDb.txt
-trackDb mm10/1KO-G1_hMeDIP_bs-50/trackDb.txt
-trackDb mm10/1KO-G2_hMeDIP_bs-50/trackDb.txt
-trackDb mm10/1KO-G1G2_meDIP_log2ratio/trackDb.txt
-trackDb mm10/1KO-G1_meDIP_bs-50/trackDb.txt
-trackDb mm10/1KO-G2_meDIP_bs-50/trackDb.txt
+trackDb mm10/trackDb.txt
