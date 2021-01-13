@@ -1,0 +1,5 @@
+hub 1KO-G1G2_meDIP-seq_hMeDIP-seq
+shortLabel 1KO-G1G2_DIP
+longLabel Hub to display 1KO-G1G2_meDIP-seq_hMeDIP-seq
+genomesFile genomes.txt
+email 6220002i@sc.toho-u.st.jp

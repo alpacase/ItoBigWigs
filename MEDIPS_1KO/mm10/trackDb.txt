@@ -1,0 +1,43 @@
+track 1KO-G1_hMeDIP_MEDIPS_bs-50
+parent 1KO-G1_hMeDIP_bs-50
+shortLabel 1KO-G1_hMeDIP_MEDIPS_bs-50
+longLabel 1KO-G1_hMeDIP_MEDIPS_bs-50
+type bigWig
+bigDataUrl 1KO-G1_hMeDIP_MEDIPS_bs-50.bw
+color 200,50,0
+autoScale on
+alwaysZero on
+windowingFunction mean
+
+track 1KO-G2_hMeDIP_MEDIPS_bs-50
+parent 1KO-G2_hMeDIP_bs-50
+shortLabel 1KO-G2_hMeDIP_MEDIPS_bs-50
+longLabel 1KO-G2_hMeDIP_MEDIPS_bs-50
+type bigWig
+bigDataUrl 1KO-G2_hMeDIP_MEDIPS_bs-50.bw
+color 200,50,0
+autoScale on
+alwaysZero on
+windowingFunction mean
+
+track 1KO-G1_meDIP_MEDIPS_bs-50
+parent 1KO-G1_meDIP_bs-50
+shortLabel 1KO-G1_meDIP_MEDIPS_bs-50
+longLabel 1KO-G1_meDIP_MEDIPS_bs-50
+type bigWig
+bigDataUrl 1KO-G1_meDIP_MEDIPS_bs-50.bw
+color 0,150,0
+autoScale on
+alwaysZero on
+windowingFunction mean
+
+track 1KO-G2_meDIP_MEDIPS_bs-50
+parent 1KO-G2_meDIP_bs-50
+shortLabel 1KO-G2_meDIP_MEDIPS_bs-50
+longLabel 1KO-G2_meDIP_MEDIPS_bs-50
+type bigWig
+bigDataUrl 1KO-G2_meDIP_MEDIPS_bs-50.bw
+color 0,150,0
+autoScale on
+alwaysZero on
+windowingFunction mean

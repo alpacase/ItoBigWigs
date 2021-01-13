@@ -1,0 +1,5 @@
+hub 1KO-G1G2_MEDIPS
+shortLabel 1KO-G1G2_MEDIPS
+longLabel Hub to display 1KO-G1G2_MEDIPS
+genomesFile genomes.txt
+email 6220002i@sc.toho-u.st.jp

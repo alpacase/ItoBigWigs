@@ -1,0 +1,1463 @@
+track 1KO-G1_hMeDIP_bs-50
+container multiWig
+shortLabel 1KO-G1_hMeDIP_bs-50
+longLabel 1KO-G1_hMeDIP_bs-50
+type bigWig
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+aggregate solidOverlay
+showSubtrackColorOnUi on
+priority 1.0
+
+	track 1KO-G1_hMeDIP_bs-50_chr1
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr1
+	longLabel 1KO-G1_hMeDIP_bs-50_chr1
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr1.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr2
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr2
+	longLabel 1KO-G1_hMeDIP_bs-50_chr2
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr2.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	
+	track 1KO-G1_hMeDIP_bs-50_chr3
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr3
+	longLabel 1KO-G1_hMeDIP_bs-50_chr3
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr3.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr4
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr4
+	longLabel 1KO-G1_hMeDIP_bs-50_chr4
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr4.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr5
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr5
+	longLabel 1KO-G1_hMeDIP_bs-50_chr5
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr5.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr6
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr6
+	longLabel 1KO-G1_hMeDIP_bs-50_chr6
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr6.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr7
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr7
+	longLabel 1KO-G1_hMeDIP_bs-50_chr7
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr7.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr8
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr8
+	longLabel 1KO-G1_hMeDIP_bs-50_chr8
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr8.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr9
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr9
+	longLabel 1KO-G1_hMeDIP_bs-50_chr9
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr9.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr10
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr10
+	longLabel 1KO-G1_hMeDIP_bs-50_chr10
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr10.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr11
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr11
+	longLabel 1KO-G1_hMeDIP_bs-50_chr11
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr11.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr12
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr12
+	longLabel 1KO-G1_hMeDIP_bs-50_chr12
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr12.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr13
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr13
+	longLabel 1KO-G1_hMeDIP_bs-50_chr13
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr13.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr14
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr14
+	longLabel 1KO-G1_hMeDIP_bs-50_chr14
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr14.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr15
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr15
+	longLabel 1KO-G1_hMeDIP_bs-50_chr15
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr15.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr16
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr16
+	longLabel 1KO-G1_hMeDIP_bs-50_chr16
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr16.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr17
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr17
+	longLabel 1KO-G1_hMeDIP_bs-50_chr17
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr17.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr18
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr18
+	longLabel 1KO-G1_hMeDIP_bs-50_chr18
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr18.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chr19
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chr19
+	longLabel 1KO-G1_hMeDIP_bs-50_chr19
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chr19.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chrX
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chrX
+	longLabel 1KO-G1_hMeDIP_bs-50_chrX
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chrX.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_hMeDIP_bs-50_chrY
+	parent 1KO-G1_hMeDIP_bs-50
+	shortLabel 1KO-G1_hMeDIP_bs-50_chrY
+	longLabel 1KO-G1_hMeDIP_bs-50_chrY
+	type bigWig
+	bigDataUrl 1KO-G1_hMeDIP_bs-50_chrY.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	
+track 1KO-G2_hMeDIP_bs-50
+container multiWig
+shortLabel 1KO-G2_hMeDIP_bs-50
+longLabel 1KO-G2_hMeDIP_bs-50
+type bigWig
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+aggregate solidOverlay
+showSubtrackColorOnUi on
+priority 1.0
+
+	track 1KO-G2_hMeDIP_bs-50_chr1
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr1
+	longLabel 1KO-G2_hMeDIP_bs-50_chr1
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr1.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr2
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr2
+	longLabel 1KO-G2_hMeDIP_bs-50_chr2
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr2.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	
+	track 1KO-G2_hMeDIP_bs-50_chr3
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr3
+	longLabel 1KO-G2_hMeDIP_bs-50_chr3
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr3.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr4
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr4
+	longLabel 1KO-G2_hMeDIP_bs-50_chr4
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr4.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr5
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr5
+	longLabel 1KO-G2_hMeDIP_bs-50_chr5
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr5.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr6
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr6
+	longLabel 1KO-G2_hMeDIP_bs-50_chr6
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr6.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr7
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr7
+	longLabel 1KO-G2_hMeDIP_bs-50_chr7
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr7.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr8
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr8
+	longLabel 1KO-G2_hMeDIP_bs-50_chr8
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr8.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr9
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr9
+	longLabel 1KO-G2_hMeDIP_bs-50_chr9
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr9.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr10
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr10
+	longLabel 1KO-G2_hMeDIP_bs-50_chr10
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr10.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr11
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr11
+	longLabel 1KO-G2_hMeDIP_bs-50_chr11
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr11.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr12
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr12
+	longLabel 1KO-G2_hMeDIP_bs-50_chr12
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr12.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr13
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr13
+	longLabel 1KO-G2_hMeDIP_bs-50_chr13
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr13.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr14
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr14
+	longLabel 1KO-G2_hMeDIP_bs-50_chr14
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr14.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr15
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr15
+	longLabel 1KO-G2_hMeDIP_bs-50_chr15
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr15.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr16
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr16
+	longLabel 1KO-G2_hMeDIP_bs-50_chr16
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr16.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr17
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr17
+	longLabel 1KO-G2_hMeDIP_bs-50_chr17
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr17.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr18
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr18
+	longLabel 1KO-G2_hMeDIP_bs-50_chr18
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr18.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chr19
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chr19
+	longLabel 1KO-G2_hMeDIP_bs-50_chr19
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chr19.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chrX
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chrX
+	longLabel 1KO-G2_hMeDIP_bs-50_chrX
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chrX.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_hMeDIP_bs-50_chrY
+	parent 1KO-G2_hMeDIP_bs-50
+	shortLabel 1KO-G2_hMeDIP_bs-50_chrY
+	longLabel 1KO-G2_hMeDIP_bs-50_chrY
+	type bigWig
+	bigDataUrl 1KO-G2_hMeDIP_bs-50_chrY.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track 1KO-G1G2_hMeDIP_log2ratio
+container multiWig
+shortLabel 1KO-G1G2_hMeDIP_log2ratio
+longLabel 1KO-G1G2_hMeDIP_log2ratio
+type bigWig
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+aggregate solidOverlay
+showSubtrackColorOnUi on
+priority 1.0
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr1
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr1
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr1
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr1.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr2
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr2
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr2
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr2.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	
+	track 1KO-G1G2_hMeDIP_log2ratio_chr3
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr3
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr3
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr3.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr4
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr4
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr4
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr4.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr5
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr5
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr5
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr5.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr6
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr6
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr6
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr6.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr7
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr7
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr7
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr7.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr8
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr8
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr8
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr8.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr9
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr9
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr9
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr9.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr10
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr10
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr10
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr10.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr11
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr11
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr11
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr11.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr12
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr12
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr12
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr12.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr13
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr13
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr13
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr13.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr14
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr14
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr14
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr14.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr15
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr15
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr15
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr15.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr16
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr16
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr16
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr16.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr17
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr17
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr17
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr17.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr18
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr18
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr18
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr18.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chr19
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chr19
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chr19
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chr19.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chrX
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chrX
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chrX
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chrX.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_hMeDIP_log2ratio_chrY
+	parent 1KO-G1G2_hMeDIP_log2ratio
+	shortLabel 1KO-G1G2_hMeDIP_log2ratio_chrY
+	longLabel 1KO-G1G2_hMeDIP_log2ratio_chrY
+	type bigWig
+	bigDataUrl 1KO-G1G2_hMeDIP_log2ratio_chrY.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track 1KO-G1_meDIP_bs-50
+container multiWig
+shortLabel 1KO-G1_meDIP_bs-50
+longLabel 1KO-G1_meDIP_bs-50
+type bigWig
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+aggregate solidOverlay
+showSubtrackColorOnUi on
+priority 1.0
+
+	track 1KO-G1_meDIP_bs-50_chr1
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr1
+	longLabel 1KO-G1_meDIP_bs-50_chr1
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr1.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr2
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr2
+	longLabel 1KO-G1_meDIP_bs-50_chr2
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr2.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	
+	track 1KO-G1_meDIP_bs-50_chr3
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr3
+	longLabel 1KO-G1_meDIP_bs-50_chr3
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr3.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr4
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr4
+	longLabel 1KO-G1_meDIP_bs-50_chr4
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr4.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr5
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr5
+	longLabel 1KO-G1_meDIP_bs-50_chr5
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr5.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr6
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr6
+	longLabel 1KO-G1_meDIP_bs-50_chr6
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr6.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr7
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr7
+	longLabel 1KO-G1_meDIP_bs-50_chr7
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr7.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr8
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr8
+	longLabel 1KO-G1_meDIP_bs-50_chr8
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr8.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr9
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr9
+	longLabel 1KO-G1_meDIP_bs-50_chr9
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr9.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr10
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr10
+	longLabel 1KO-G1_meDIP_bs-50_chr10
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr10.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr11
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr11
+	longLabel 1KO-G1_meDIP_bs-50_chr11
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr11.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr12
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr12
+	longLabel 1KO-G1_meDIP_bs-50_chr12
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr12.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr13
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr13
+	longLabel 1KO-G1_meDIP_bs-50_chr13
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr13.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr14
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr14
+	longLabel 1KO-G1_meDIP_bs-50_chr14
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr14.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr15
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr15
+	longLabel 1KO-G1_meDIP_bs-50_chr15
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr15.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr16
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr16
+	longLabel 1KO-G1_meDIP_bs-50_chr16
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr16.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr17
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr17
+	longLabel 1KO-G1_meDIP_bs-50_chr17
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr17.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr18
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr18
+	longLabel 1KO-G1_meDIP_bs-50_chr18
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr18.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chr19
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chr19
+	longLabel 1KO-G1_meDIP_bs-50_chr19
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chr19.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chrX
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chrX
+	longLabel 1KO-G1_meDIP_bs-50_chrX
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chrX.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1_meDIP_bs-50_chrY
+	parent 1KO-G1_meDIP_bs-50
+	shortLabel 1KO-G1_meDIP_bs-50_chrY
+	longLabel 1KO-G1_meDIP_bs-50_chrY
+	type bigWig
+	bigDataUrl 1KO-G1_meDIP_bs-50_chrY.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track 1KO-G2_meDIP_bs-50
+container multiWig
+shortLabel 1KO-G2_meDIP_bs-50
+longLabel 1KO-G2_meDIP_bs-50
+type bigWig
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+aggregate solidOverlay
+showSubtrackColorOnUi on
+priority 1.0
+
+	track 1KO-G2_meDIP_bs-50_chr1
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr1
+	longLabel 1KO-G2_meDIP_bs-50_chr1
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr1.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr2
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr2
+	longLabel 1KO-G2_meDIP_bs-50_chr2
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr2.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	
+	track 1KO-G2_meDIP_bs-50_chr3
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr3
+	longLabel 1KO-G2_meDIP_bs-50_chr3
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr3.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr4
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr4
+	longLabel 1KO-G2_meDIP_bs-50_chr4
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr4.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr5
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr5
+	longLabel 1KO-G2_meDIP_bs-50_chr5
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr5.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr6
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr6
+	longLabel 1KO-G2_meDIP_bs-50_chr6
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr6.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr7
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr7
+	longLabel 1KO-G2_meDIP_bs-50_chr7
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr7.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr8
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr8
+	longLabel 1KO-G2_meDIP_bs-50_chr8
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr8.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr9
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr9
+	longLabel 1KO-G2_meDIP_bs-50_chr9
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr9.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr10
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr10
+	longLabel 1KO-G2_meDIP_bs-50_chr10
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr10.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr11
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr11
+	longLabel 1KO-G2_meDIP_bs-50_chr11
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr11.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr12
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr12
+	longLabel 1KO-G2_meDIP_bs-50_chr12
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr12.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr13
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr13
+	longLabel 1KO-G2_meDIP_bs-50_chr13
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr13.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr14
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr14
+	longLabel 1KO-G2_meDIP_bs-50_chr14
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr14.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr15
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr15
+	longLabel 1KO-G2_meDIP_bs-50_chr15
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr15.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr16
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr16
+	longLabel 1KO-G2_meDIP_bs-50_chr16
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr16.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr17
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr17
+	longLabel 1KO-G2_meDIP_bs-50_chr17
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr17.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr18
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr18
+	longLabel 1KO-G2_meDIP_bs-50_chr18
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr18.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chr19
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chr19
+	longLabel 1KO-G2_meDIP_bs-50_chr19
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chr19.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chrX
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chrX
+	longLabel 1KO-G2_meDIP_bs-50_chrX
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chrX.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G2_meDIP_bs-50_chrY
+	parent 1KO-G2_meDIP_bs-50
+	shortLabel 1KO-G2_meDIP_bs-50_chrY
+	longLabel 1KO-G2_meDIP_bs-50_chrY
+	type bigWig
+	bigDataUrl 1KO-G2_meDIP_bs-50_chrY.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track 1KO-G1G2_meDIP_log2ratio
+container multiWig
+shortLabel 1KO-G1G2_meDIP_log2ratio
+longLabel 1KO-G1G2_meDIP_log2ratio
+type bigWig
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+aggregate solidOverlay
+showSubtrackColorOnUi on
+priority 1.0
+
+	track 1KO-G1G2_meDIP_log2ratio_chr1
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr1
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr1
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr1.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr2
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr2
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr2
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr2.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	
+	track 1KO-G1G2_meDIP_log2ratio_chr3
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr3
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr3
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr3.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr4
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr4
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr4
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr4.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr5
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr5
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr5
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr5.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr6
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr6
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr6
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr6.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr7
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr7
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr7
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr7.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr8
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr8
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr8
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr8.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr9
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr9
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr9
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr9.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr10
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr10
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr10
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr10.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr11
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr11
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr11
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr11.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr12
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr12
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr12
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr12.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr13
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr13
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr13
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr13.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr14
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr14
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr14
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr14.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr15
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr15
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr15
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr15.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr16
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr16
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr16
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr16.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr17
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr17
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr17
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr17.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr18
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr18
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr18
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr18.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chr19
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chr19
+	longLabel 1KO-G1G2_meDIP_log2ratio_chr19
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chr19.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chrX
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chrX
+	longLabel 1KO-G1G2_meDIP_log2ratio_chrX
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chrX.bw
+	color 0,150,50
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+	track 1KO-G1G2_meDIP_log2ratio_chrY
+	parent 1KO-G1G2_meDIP_log2ratio
+	shortLabel 1KO-G1G2_meDIP_log2ratio_chrY
+	longLabel 1KO-G1G2_meDIP_log2ratio_chrY
+	type bigWig
+	bigDataUrl 1KO-G1G2_meDIP_log2ratio_chrY.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
