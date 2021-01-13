@@ -1,5 +1,4 @@
 track 1KO-G1_hMeDIP_MEDIPS_bs-50
-parent 1KO-G1_hMeDIP_bs-50
 shortLabel 1KO-G1_hMeDIP_MEDIPS_bs-50
 longLabel 1KO-G1_hMeDIP_MEDIPS_bs-50
 type bigWig
@@ -10,7 +9,6 @@ alwaysZero on
 windowingFunction mean
 
 track 1KO-G2_hMeDIP_MEDIPS_bs-50
-parent 1KO-G2_hMeDIP_bs-50
 shortLabel 1KO-G2_hMeDIP_MEDIPS_bs-50
 longLabel 1KO-G2_hMeDIP_MEDIPS_bs-50
 type bigWig
@@ -21,7 +19,6 @@ alwaysZero on
 windowingFunction mean
 
 track 1KO-G1_meDIP_MEDIPS_bs-50
-parent 1KO-G1_meDIP_bs-50
 shortLabel 1KO-G1_meDIP_MEDIPS_bs-50
 longLabel 1KO-G1_meDIP_MEDIPS_bs-50
 type bigWig
@@ -32,7 +29,6 @@ alwaysZero on
 windowingFunction mean
 
 track 1KO-G2_meDIP_MEDIPS_bs-50
-parent 1KO-G2_meDIP_bs-50
 shortLabel 1KO-G2_meDIP_MEDIPS_bs-50
 longLabel 1KO-G2_meDIP_MEDIPS_bs-50
 type bigWig
