@@ -1,0 +1,5 @@
+hub GSE90893_ESCs_histone_ATAC-seq
+shortLabel ESCs_histone_ATAC-seq
+longLabel Hub to display ESCs_histone_ATAC-seq
+genomesFile genomes.txt
+email 6220002i@sc.toho-u.st.jp

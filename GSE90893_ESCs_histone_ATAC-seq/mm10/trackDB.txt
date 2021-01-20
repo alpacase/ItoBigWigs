@@ -1,0 +1,79 @@
+track GSM2417080_ESC_H3K4me3
+	shortLabel GSM2417080_ESC_H3K4me3
+	longLabel GSM2417080_ESC_H3K4me3
+	type bigWig
+	bigDataUrl GSM2417080_ESC_H3K4me3.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track GSM2417084_ESC_H3K4me2
+	shortLabel GSM2417084_ESC_H3K4me2
+	longLabel GSM2417084_ESC_H3K4me2
+	type bigWig
+	bigDataUrl GSM2417084_ESC_H3K4me2.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track GSM2417088_ESC_H3K4me1
+	shortLabel GSM2417088_ESC_H3K4me1
+	longLabel GSM2417088_ESC_H3K4me1
+	type bigWig
+	bigDataUrl GSM2417088_ESC_H3K4me1.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track GSM2417092_ESC_H3K9ac
+	shortLabel GSM2417092_ESC_H3K9ac
+	longLabel GSM2417092_ESC_H3K9ac
+	type bigWig
+	bigDataUrl GSM2417092_ESC_H3K9ac.bw
+	color 0,200,255
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track GSM2417096_ESC_H3K27ac
+	shortLabel GSM2417096_ESC_H3K27ac
+	longLabel GSM2417096_ESC_H3K27ac
+	type bigWig
+	bigDataUrl GSM2417096_ESC_H3K27ac.bw
+	color 0,200,255
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track GSM2417100_ESC_H3K27me3
+	shortLabel GSM2417100_ESC_H3K27me3
+	longLabel GSM2417100_ESC_H3K27me3
+	type bigWig
+	bigDataUrl GSM2417100_ESC_H3K27me3.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track GSM2417108_ESC_H3K36me3
+	shortLabel GSM2417108_ESC_H3K36me3
+	longLabel GSM2417108_ESC_H3K36me3
+	type bigWig
+	bigDataUrl GSM2417108_ESC_H3K36me3.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+
+track GSM2417112_ESC_H3K9me3
+	shortLabel GSM2417112_ESC_H3K9me3
+	longLabel GSM2417112_ESC_H3K9me3
+	type bigWig
+	bigDataUrl GSM2417112_ESC_H3K9me3.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
