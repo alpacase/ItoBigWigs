@@ -1,0 +1,5 @@
+hub DKO_TKO_MEDIPS
+shortLabel DKO_TKO_MEDIPS
+longLabel Hub to display DKO_TKO_MEDIPS
+genomesFile genomes.txt
+email 6220002i@sc.toho-u.st.jp

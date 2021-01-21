@@ -1,0 +1,87 @@
+track DKO-P_hMeDIP_MEDIPS_bs-50
+	shortLabel DKO-P_hMeDIP_MEDIPS_bs-50
+	longLabel DKO-P_hMeDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl DKO-P_hMeDIP_MEDIPS_bs-50.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
+
+track DKO-P_meDIP_MEDIPS_bs-50
+	shortLabel DKO-P_meDIP_MEDIPS_bs-50
+	longLabel DKO-P_meDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl DKO-P_meDIP_MEDIPS_bs-50.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
+
+track DKO-U_hMeDIP_MEDIPS_bs-50
+	shortLabel DKO-U_hMeDIP_MEDIPS_bs-50
+	longLabel DKO-U_hMeDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl DKO-U_hMeDIP_MEDIPS_bs-50.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
+
+track DKO-U_meDIP_MEDIPS_bs-50
+	shortLabel DKO-U_meDIP_MEDIPS_bs-50
+	longLabel DKO-U_meDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl DKO-U_meDIP_MEDIPS_bs-50.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
+
+track TKO-P_hMeDIP_MEDIPS_bs-50
+	shortLabel TKO-P_hMeDIP_MEDIPS_bs-50
+	longLabel TKO-P_hMeDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl TKO-P_hMeDIP_MEDIPS_bs-50.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
+
+track TKO-P_meDIP_MEDIPS_bs-50
+	shortLabel TKO-P_meDIP_MEDIPS_bs-50
+	longLabel TKO-P_meDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl TKO-P_meDIP_MEDIPS_bs-50.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
+
+track TKO-U_hMeDIP_MEDIPS_bs-50
+	shortLabel TKO-U_hMeDIP_MEDIPS_bs-50
+	longLabel TKO-U_hMeDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl TKO-U_hMeDIP_MEDIPS_bs-50.bw
+	color 200,50,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
+
+track TKO-U_meDIP_MEDIPS_bs-50
+	shortLabel TKO-U_meDIP_MEDIPS_bs-50
+	longLabel TKO-U_meDIP_MEDIPS_bs-50
+	type bigWig
+	bigDataUrl TKO-U_meDIP_MEDIPS_bs-50.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	visiblity 3
+	windowingFunction mean
