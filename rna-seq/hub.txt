@@ -1,0 +1,5 @@
+hub RNA-seq_mm10
+shortLabel RNA-seq
+longLabel Hub to display RNA-seq_mm10
+genomesFile genomes.txt
+email 6220002i@sc.toho-u.st.jp
