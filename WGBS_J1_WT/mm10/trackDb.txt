@@ -1,0 +1,243 @@
+track WGBS_WT_J1
+container multiWig
+shortLabel WGBS_WT_J1
+longLabel WGBS_WT_J1
+type bigWig
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale off
+aggregate solidOverlay
+showSubtrackColorOnUi on
+priority 1.0
+
+	track WGBS_WT_J1_chr1
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr1
+	longLabel WGBS_WT_J1_chr1
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr1.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr2
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr2
+	longLabel WGBS_WT_J1_chr2
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr2.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+	
+	track WGBS_WT_J1_chr3
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr3
+	longLabel WGBS_WT_J1_chr3
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr3.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr4
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr4
+	longLabel WGBS_WT_J1_chr4
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr4.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr5
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr5
+	longLabel WGBS_WT_J1_chr5
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr5.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr6
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr6
+	longLabel WGBS_WT_J1_chr6
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr6.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr7
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr7
+	longLabel WGBS_WT_J1_chr7
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr7.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr8
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr8
+	longLabel WGBS_WT_J1_chr8
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr8.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr9
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr9
+	longLabel WGBS_WT_J1_chr9
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr9.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr10
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr10
+	longLabel WGBS_WT_J1_chr10
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr10.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr11
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr11
+	longLabel WGBS_WT_J1_chr11
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr11.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr12
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr12
+	longLabel WGBS_WT_J1_chr12
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr12.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr13
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr13
+	longLabel WGBS_WT_J1_chr13
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr13.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr14
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr14
+	longLabel WGBS_WT_J1_chr14
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr14.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr15
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr15
+	longLabel WGBS_WT_J1_chr15
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr15.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr16
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr16
+	longLabel WGBS_WT_J1_chr16
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr16.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr17
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr17
+	longLabel WGBS_WT_J1_chr17
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr17.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr18
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr18
+	longLabel WGBS_WT_J1_chr18
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr18.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chr19
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chr19
+	longLabel WGBS_WT_J1_chr19
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chr19.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chrX
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chrX
+	longLabel WGBS_WT_J1_chrX
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chrX.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean
+
+	track WGBS_WT_J1_chrY
+	parent WGBS_WT_J1
+	shortLabel WGBS_WT_J1_chrY
+	longLabel WGBS_WT_J1_chrY
+	type bigWig
+	bigDataUrl WGBS_WT_J1_chrY.bw
+	color 0,0,0
+	autoScale off
+	alwaysZero on
+	windowingFunction mean

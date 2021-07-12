@@ -1,0 +1,5 @@
+hub WGBS_WT_J1
+shortLabel WGBS_WT_J1
+longLabel Hub to display WGBS_WT_J1
+genomesFile genomes.txt
+email 6220002i@sc.toho-u.st.jp
