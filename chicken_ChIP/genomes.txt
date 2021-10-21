@@ -1,0 +1,2 @@
+genome galGal4
+trackDb galGal4/trackDb.txt
