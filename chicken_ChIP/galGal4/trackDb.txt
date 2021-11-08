@@ -31,124 +31,150 @@ track DT40_H3K9me3
 	windowingFunction mean
 	smoothingWindow 5
 	
-track HH27_H3K27me3-E002
-	shortLabel HH27_H3K27me3-E002
-	longLabel HH27_H3K27me3-E002
-	type bigWig
-	bigDataUrl HH27_H3K27me3-E002.bw
-	color 200,0,100
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K27me3-E006
-	shortLabel HH27_H3K27me3-E006
-	longLabel HH27_H3K27me3-E006
-	type bigWig
-	bigDataUrl HH27_H3K27me3-E006.bw
-	color 200,0,100
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K27me3-E009
-	shortLabel HH27_H3K27me3-E009
-	longLabel HH27_H3K27me3-E009
-	type bigWig
-	bigDataUrl HH27_H3K27me3-E009.bw
-	color 200,0,100
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K4me2-E003
-	shortLabel HH27_H3K4me2-E003
-	longLabel HH27_H3K4me2-E003
-	type bigWig
-	bigDataUrl HH27_H3K4me2-E003.bw
-	color 0,200,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K4me2-E005
-	shortLabel HH27_H3K4me2-E005
-	longLabel HH27_H3K4me2-E005
-	type bigWig
-	bigDataUrl HH27_H3K4me2-E005.bw
-	color 0,200,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K4me2-E008
-	shortLabel HH27_H3K4me2-E008
-	longLabel HH27_H3K4me2-E008
-	type bigWig
-	bigDataUrl HH27_H3K4me2-E008.bw
-	color 0,200,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K4me2-x5Emix
-	shortLabel HH27_H3K4me2-x5Emix
-	longLabel HH27_H3K4me2-x5Emix
-	type bigWig
-	bigDataUrl HH27_H3K4me2-x5Emix.bw
-	color 0,200,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K9me3-E001
-	shortLabel HH27_H3K9me3-E001
-	longLabel HH27_H3K9me3-E001
-	type bigWig
-	bigDataUrl HH27_H3K9me3-E001.bw
-	color 0,150,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K9me3-E004
-	shortLabel HH27_H3K9me3-E004
-	longLabel HH27_H3K9me3-E004
-	type bigWig
-	bigDataUrl HH27_H3K9me3-E004.bw
-	color 0,150,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K9me3-E007
-	shortLabel HH27_H3K9me3-E007
-	longLabel HH27_H3K9me3-E007
-	type bigWig
-	bigDataUrl HH27_H3K9me3-E007.bw
-	color 0,150,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
-track HH27_H3K9me3-x5Emix
-	shortLabel HH27_H3K9me3-x5Emix
-	longLabel HH27_H3K9me3-x5Emix
-	type bigWig
-	bigDataUrl HH27_H3K9me3-x5Emix.bw
-	color 0,150,0
-	autoScale on
-	alwaysZero on
-	windowingFunction mean
-	smoothingWindow 5
-	
+track HH27_H3K27me3
+    container multiWig
+    aggregate transparentOverlay
+    type bigWig
+
+	track HH27_H3K27me3-E002
+		parent HH27_H3K27me3
+		shortLabel HH27_H3K27me3-E002
+		longLabel HH27_H3K27me3-E002
+		type bigWig
+		bigDataUrl HH27_H3K27me3-E002.bw
+		color 200,0,100
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K27me3-E006
+		parent HH27_H3K27me3
+		shortLabel HH27_H3K27me3-E006
+		longLabel HH27_H3K27me3-E006
+		type bigWig
+		bigDataUrl HH27_H3K27me3-E006.bw
+		color 200,0,100
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K27me3-E009
+		parent HH27_H3K27me3
+		shortLabel HH27_H3K27me3-E009
+		longLabel HH27_H3K27me3-E009
+		type bigWig
+		bigDataUrl HH27_H3K27me3-E009.bw
+		color 200,0,100
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+track HH27_H3K4me2
+    container multiWig
+    aggregate transparentOverlay
+    type bigWig
+
+	track HH27_H3K4me2-E003
+		parent HH27_H3K4me2
+		shortLabel HH27_H3K4me2-E003
+		longLabel HH27_H3K4me2-E003
+		type bigWig
+		bigDataUrl HH27_H3K4me2-E003.bw
+		color 0,200,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K4me2-E005
+		parent HH27_H3K4me2
+		shortLabel HH27_H3K4me2-E005
+		longLabel HH27_H3K4me2-E005
+		type bigWig
+		bigDataUrl HH27_H3K4me2-E005.bw
+		color 0,200,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K4me2-E008
+		parent HH27_H3K4me2
+		shortLabel HH27_H3K4me2-E008
+		longLabel HH27_H3K4me2-E008
+		type bigWig
+		bigDataUrl HH27_H3K4me2-E008.bw
+		color 0,200,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K4me2-x5Emix
+		parent HH27_H3K4me2
+		shortLabel HH27_H3K4me2-x5Emix
+		longLabel HH27_H3K4me2-x5Emix
+		type bigWig
+		bigDataUrl HH27_H3K4me2-x5Emix.bw
+		color 0,200,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+
+track HH27_H3K9me3
+    container multiWig
+    aggregate transparentOverlay
+    type bigWig
+		
+	track HH27_H3K9me3-E001
+		parent HH27_H3K9me3
+		shortLabel HH27_H3K9me3-E001
+		longLabel HH27_H3K9me3-E001
+		type bigWig
+		bigDataUrl HH27_H3K9me3-E001.bw
+		color 0,150,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K9me3-E004
+		parent HH27_H3K9me3
+		shortLabel HH27_H3K9me3-E004
+		longLabel HH27_H3K9me3-E004
+		type bigWig
+		bigDataUrl HH27_H3K9me3-E004.bw
+		color 0,150,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K9me3-E007
+		parent HH27_H3K9me3
+		shortLabel HH27_H3K9me3-E007
+		longLabel HH27_H3K9me3-E007
+		type bigWig
+		bigDataUrl HH27_H3K9me3-E007.bw
+		color 0,150,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
+	track HH27_H3K9me3-x5Emix
+		parent HH27_H3K9me3
+		shortLabel HH27_H3K9me3-x5Emix
+		longLabel HH27_H3K9me3-x5Emix
+		type bigWig
+		bigDataUrl HH27_H3K9me3-x5Emix.bw
+		color 0,150,0
+		autoScale on
+		alwaysZero on
+		windowingFunction mean
+		smoothingWindow 5
+		
