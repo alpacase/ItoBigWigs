@@ -32,6 +32,7 @@ track DT40_H3K9me3
 	smoothingWindow 5
 	
 track HH27_H3K27me3
+	shortLabel HH27_H3K27me3
     container multiWig
     aggregate transparentOverlay
     type bigWig
@@ -73,6 +74,7 @@ track HH27_H3K27me3
 		smoothingWindow 5
 		
 track HH27_H3K4me2
+    shortLabel HH27_H3K4me2
     container multiWig
     aggregate transparentOverlay
     type bigWig
@@ -126,6 +128,7 @@ track HH27_H3K4me2
 		smoothingWindow 5
 
 track HH27_H3K9me3
+    shortLabel HH27_H3K9me3
     container multiWig
     aggregate transparentOverlay
     type bigWig
