@@ -1,0 +1,187 @@
+track DT40_H3K27me3
+	shortLabel DT40_H3K27me3
+	longLabel DT40_H3K27me3
+	type bigWig
+	bigDataUrl DT40_H3K27me3.bw
+	color 200,0,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track DT40_H3K4me2
+	shortLabel DT40_H3K4me2
+	longLabel DT40_H3K4me2
+	type bigWig
+	bigDataUrl DT40_H3K4me2.bw
+	color 0,200,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track DT40_H3K9me3
+	shortLabel DT40_H3K9me3
+	longLabel DT40_H3K9me3
+	type bigWig
+	bigDataUrl DT40_H3K9me3.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K27me3-E002
+	shortLabel HH27_H3K27me3-E002
+	longLabel HH27_H3K27me3-E002
+	type bigWig
+	bigDataUrl HH27_H3K27me3-E002.bw
+	color 200,0,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K27me3-E006
+	shortLabel HH27_H3K27me3-E006
+	longLabel HH27_H3K27me3-E006
+	type bigWig
+	bigDataUrl HH27_H3K27me3-E006.bw
+	color 200,0,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K27me3-E009
+	shortLabel HH27_H3K27me3-E009
+	longLabel HH27_H3K27me3-E009
+	type bigWig
+	bigDataUrl HH27_H3K27me3-E009.bw
+	color 200,0,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K27me3_mean
+	shortLabel HH27_H3K27me3_mean
+	longLabel HH27_H3K27me3_mean
+	type bigWig
+	bigDataUrl HH27_H3K27me3_mean.bw
+	color 200,0,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K4me2-E003
+	shortLabel HH27_H3K4me2-E003
+	longLabel HH27_H3K4me2-E003
+	type bigWig
+	bigDataUrl HH27_H3K4me2-E003.bw
+	color 0,200,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K4me2-E005
+	shortLabel HH27_H3K4me2-E005
+	longLabel HH27_H3K4me2-E005
+	type bigWig
+	bigDataUrl HH27_H3K4me2-E005.bw
+	color 0,200,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K4me2-E008
+	shortLabel HH27_H3K4me2-E008
+	longLabel HH27_H3K4me2-E008
+	type bigWig
+	bigDataUrl HH27_H3K4me2-E008.bw
+	color 0,200,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K4me2-x5Emix
+	shortLabel HH27_H3K4me2-x5Emix
+	longLabel HH27_H3K4me2-x5Emix
+	type bigWig
+	bigDataUrl HH27_H3K4me2-x5Emix.bw
+	color 0,200,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K4me2_mean
+	shortLabel HH27_H3K4me2_mean
+	longLabel HH27_H3K4me2_mean
+	type bigWig
+	bigDataUrl HH27_H3K4me2_mean.bw
+	color 0,200,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K9me3-E001
+	shortLabel HH27_H3K9me3-E001
+	longLabel HH27_H3K9me3-E001
+	type bigWig
+	bigDataUrl HH27_H3K9me3-E001.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K9me3-E004
+	shortLabel HH27_H3K9me3-E004
+	longLabel HH27_H3K9me3-E004
+	type bigWig
+	bigDataUrl HH27_H3K9me3-E004.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K9me3-E007
+	shortLabel HH27_H3K9me3-E007
+	longLabel HH27_H3K9me3-E007
+	type bigWig
+	bigDataUrl HH27_H3K9me3-E007.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K9me3-x5Emix
+	shortLabel HH27_H3K9me3-x5Emix
+	longLabel HH27_H3K9me3-x5Emix
+	type bigWig
+	bigDataUrl HH27_H3K9me3-x5Emix.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	
+track HH27_H3K9me3_mean
+	shortLabel HH27_H3K9me3_mean
+	longLabel HH27_H3K9me3_mean
+	type bigWig
+	bigDataUrl HH27_H3K9me3_mean.bw
+	color 0,150,0
+	autoScale on
+	alwaysZero on
+	windowingFunction mean
+	smoothingWindow 5
+	

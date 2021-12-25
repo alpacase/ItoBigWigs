@@ -1,0 +1,5 @@
+hub galGal6_ChIP-seq
+shortLabel galGal6_ChIP
+longLabel Hub to display galGal6_ChIP
+genomesFile genomes.txt
+email 6220002i@sc.toho-u.st.jp
